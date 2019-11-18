@@ -4,7 +4,7 @@ This project is an old products buy/sell website.
 
 FEATURES:
 
--> Upload Products to sell
+-> Upload Products to sell                                                                                                     
 -> Search for products to buy
 -> Filter the results
 -> User can see it's ads and number of likes and visits on each ad.
