@@ -1,1 +1,1 @@
-# MiniProject-using-Mean-Stack
+# MiniProject(Old product buy/sell)-using-Mean-Stack
